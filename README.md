@@ -1,5 +1,5 @@
-# elist_ecommerce_analysis
-Analysis for an ecommerce company on sales trends, marketing channels, and operational efficiency metrics.
+**Portfolio Project - Elist Sales Analysis**
+Elist is an ecommerce company that sells popular electronics to customers around the world. In this portfolio project, I analyzed a sample dataset to investigate trends and growth rates in revenue, average order value, product popularity, marketing channels, and refund rates to surface insights on overall company performance. I also investigated the effectiveness of their recently launched loyalty program to give recommendations on the continuation of the program. 
 
 # Summary of Insights
 **Sales:**
@@ -9,5 +9,5 @@ Analysis for an ecommerce company on sales trends, marketing channels, and opera
 **Products:**
 - Apple Airpods Headphones consistently ranked as the best-selling product, and in 2022, the top three products accounted for over 80% of sales, while **laptops had the lowest sales despite their higher price range.** 
 
-**Loyalty Program:**
+**Loyalty Program and Operations:**
 - **The team recommends continuing with the loyalty program,** as these customers make more purchases on average and purchase more expensive items even with their program discount. We also recommend exploring whether there are shipment / delivery anomalies causing the higher-than-average delivery time for Apple Airpods. 
