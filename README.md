@@ -2,7 +2,7 @@
 
 Elist is a sample e-commerce company that sells popular electronics to customers around the world. In this portfolio project, I analyzed a sample dataset to investigate trends and growth rates in revenue, average order value, product popularity, marketing channels, and refund rates to surface insights on overall company performance. I also investigated the effectiveness of their recently launched loyalty program to give recommendations on the continuation of the program. 
 
-In this project I used Pivot Tables, conditional formatting, aggregation functions, and statistical analysis to clean, analyze, and summarize data and insights. 
+In this project I used Pivot Tables, conditional formatting, aggregation functions, and statistical analysis to clean, analyze, and summarize data and insights to be used by the sales team and operations team. 
 
 # Summary of Insights
 **Sales:**
