@@ -2,6 +2,8 @@
 
 Elist is a sample e-commerce company that sells popular electronics to customers around the world. In this portfolio project, I analyzed a sample dataset to investigate trends and growth rates in revenue, average order value, product popularity, marketing channels, and refund rates to surface insights on overall company performance. I also investigated the effectiveness of their recently launched loyalty program to give recommendations on the continuation of the program. 
 
+In this project I used Pivot Tables, conditional formatting, aggregation functions, and statistical analysis to clean, analyze, and summarize data and insights. 
+
 # Summary of Insights
 **Sales:**
 - From 2019 to 2022, the **average annual sales reached 27,000 orders** with a yearly revenue of $7 million and an average order value of $254. 
