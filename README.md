@@ -8,6 +8,6 @@ Analysis for an ecommerce company on sales trends, marketing channels, and opera
 
 **Products:**
 - Apple Airpods Headphones consistently ranked as the best-selling product, and in 2022, the top three products accounted for over 80% of sales, while **laptops had the lowest sales despite their higher price range.** 
-**
-Loyalty Program:**
+
+**Loyalty Program:**
 - **The team recommends continuing with the loyalty program,** as these customers make more purchases on average and purchase more expensive items even with their program discount. We also recommend exploring whether there are shipment / delivery anomalies causing the higher-than-average delivery time for Apple Airpods. 
