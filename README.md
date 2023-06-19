@@ -9,4 +9,6 @@ I used Pivot Tables, conditional formatting, aggregation functions, and statisti
 
 **Seasonality:** Spring and winter months tend to have higher sales, possibly due to holiday gift-buying and promotions, and there was a spike in average sale price in January and February 2020, possibly related to pandemic purchases. 
 
-**Products:** Apple Airpods Headphones consistently ranked as the best-selling product, and in 2022, the top three products accounted for 70% of sales, while the Bose Headphones had the lowest number of sales across most years. The team recommends continuing with the loyalty program, as these customers make more purchases on average and purchase more expensive items even with their program discount. 
+**Products:** Apple Airpods Headphones consistently ranked as the best-selling product, and in 2022, the top three products accounted for 70% of sales, while the Bose Headphones had the lowest number of sales across most years. 
+
+**Loyalty Program:** The team recommends continuing with the loyalty program, as these customers make more purchases on average and spend an average of $30 more in 2022 per purchase even with their program discount. 
