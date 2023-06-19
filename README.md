@@ -12,3 +12,6 @@ I used Pivot Tables, conditional formatting, aggregation functions, and statisti
 **Products:** Apple Airpods Headphones consistently ranked as the best-selling product, and in 2022, the top three products accounted for 70% of sales, while the Bose Headphones had the lowest number of sales across most years. 
 
 **Loyalty Program:** The team recommends continuing with the loyalty program, as these customers make more purchases on average and spend an average of $30 more in 2022 per purchase even with their program discount. 
+
+<img width="754" alt="image" src="https://github.com/christinejiang11/elist_ecommerce_analysis/assets/56368090/5164f2ab-db32-4972-bf8c-cda0a1d74597">
+
