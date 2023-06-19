@@ -13,7 +13,7 @@ I used Pivot Tables, conditional formatting, aggregation functions, and statisti
 
 **Loyalty Program:** The team recommends continuing with the loyalty program, as these customers make more purchases on average and spend an average of $30 more in 2022 per purchase even with their program discount. 
 
-
+# Technical Analysis
 Analysis used for seasonality analysis is below. More detailed analysis is contained in the Excel workbook in this repository.
 
 <img width="754" alt="image" src="https://github.com/christinejiang11/elist_ecommerce_analysis/assets/56368090/5164f2ab-db32-4972-bf8c-cda0a1d74597">
