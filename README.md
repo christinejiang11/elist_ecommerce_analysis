@@ -1,4 +1,4 @@
-**Portfolio Project - Elist Sales Analysis**
+# **Portfolio Project - Elist Sales Analysis**
 
 Elist is a sample e-commerce company that sells popular electronics to customers around the world. In this portfolio project, I analyzed a sample dataset to investigate trends and growth rates in revenue, average order value, product popularity, marketing channels, and refund rates to surface insights on overall company performance. I also investigated the effectiveness of their recently launched loyalty program to give recommendations on the continuation of the program. 
 
